@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    background: black;
+    display: flex;
+    min-height: 70px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box-1 {
+    background: pink;
+    width: 20%;
+    height: 50px;
+    padding: 15px;
+}
+
+.box-2 {
+    background: lightskyblue;
+    height: 50px;
+    width: 20%;
+    padding: 15px;
+}
+
+.box-3 {
+    background: lightsalmon;
+    height: 50px;
+    width: 20%;
+    padding: 15px;
+}
+
+.box-4 {
+    background: palegreen;
+    height: 50px;
+    width: 20%;
+    padding: 15px;
+}
+
+.box-5 {
+    background: lightslategrey;
+    width: 20%;
+    height: 50px;
+    padding: 15px;
+}
